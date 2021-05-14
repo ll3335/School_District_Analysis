@@ -3,6 +3,8 @@
 ## Overview of School District Analysis
 This analysis aims at replacing math and reading scores of ninth grade student at Thomas High School with NaN and update the data to analyze changes for the district summary, the school summary, the top 5 and bottom 5 performing schools based on the overall passing rate, the average math and reading score for each grade level from each school, the scores by school spending per student, by school size and by school type. 
 
+
+
 ## Results
 - How is the district summary affected?
 <img width="930" alt="Screen Shot 2021-05-14 at 8 40 41 AM" src="https://user-images.githubusercontent.com/82549066/118272208-44f30680-b490-11eb-8ffd-b40b1e123fc2.png">
@@ -31,7 +33,7 @@ Thomas High School has lower passing percentage for all math, reading and overal
 2. Scores by school spending
 <img width="812" alt="Screen Shot 2021-05-14 at 9 21 56 AM" src="https://user-images.githubusercontent.com/82549066/118276662-e761b880-b495-11eb-9c0c-7e96f553752e.png">
 
-<img width="8142" alt="Screen Shot 2021-05-14 at 9 22 18 AM" src="https://user-images.githubusercontent.com/82549066/118276684-eaf53f80-b495-11eb-87e8-01ea37d5ae89.png">
+<img width="812" alt="Screen Shot 2021-05-14 at 9 22 18 AM" src="https://user-images.githubusercontent.com/82549066/118276684-eaf53f80-b495-11eb-87e8-01ea37d5ae89.png">
 Scores by school spending chart remain unchanged after formatting.
 
 3. Scores by school size
@@ -45,6 +47,8 @@ Scores by school size chart remains unchanged after formatting.
 
 <img width="698" alt="Screen Shot 2021-05-14 at 9 28 11 AM" src="https://user-images.githubusercontent.com/82549066/118277384-bcc42f80-b496-11eb-9328-792aa25a8b9b.png">
 Scores by school type chart remains unchaged after formatting.
+
+
 
 ## Summary
 After reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs, the district summary has some changes and the school summary has data for Thomas High School change. Thomas High School has a lower performance than before while others remain unchanged with the charts of math and reading scores by grade, scores by school spending, scores by school size and scores by school type stay the same.
