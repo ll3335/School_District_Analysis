@@ -7,9 +7,9 @@ This analysis aims at replacing math and reading scores of ninth grade student a
 
 ## Results
 - How is the district summary affected?
-<img width="930" alt="Screen Shot 2021-05-14 at 8 40 41 AM" src="https://user-images.githubusercontent.com/82549066/118272208-44f30680-b490-11eb-8ffd-b40b1e123fc2.png">
+  <img width="930" alt="Screen Shot 2021-05-14 at 8 40 41 AM" src="https://user-images.githubusercontent.com/82549066/118272208-44f30680-b490-11eb-8ffd-b40b1e123fc2.png">
 
-<img width="930" alt="Screen Shot 2021-05-14 at 8 40 54 AM" src="https://user-images.githubusercontent.com/82549066/118272218-48868d80-b490-11eb-9bec-ff904d5a45e0.png">
+  <img width="930" alt="Screen Shot 2021-05-14 at 8 40 54 AM" src="https://user-images.githubusercontent.com/82549066/118272218-48868d80-b490-11eb-9bec-ff904d5a45e0.png">
 The images above respectively illustrate district summary of new updates and old data. As we can see from the output images, the average math score decreased by 0.1 from 79 to 78.9. The percentage of passing math decreased by 0.2% from 75% to 74.8%. The percentage of passing reading decreased from 86% to 85.7%. The overall passing percentage decreased from 75% to 74.9% while other figures remain unchanged.
 
 - How is the school summary affected?
